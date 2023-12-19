@@ -1,0 +1,1 @@
+# konut-kradisi-tahmini
